@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Appu-13/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Appu-13/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Appu-13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Appu-13/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Appu-13/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
